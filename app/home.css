@@ -52,6 +52,10 @@ input {
   border-radius: 9999px;
 }
 
+.getcode.disabled{
+  opacity: 0.3;
+}
+
 .form-error {
   color: red;
   font-size: 12px;
